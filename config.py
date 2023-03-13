@@ -1,5 +1,5 @@
 # Configuration du bot Telegram
-TELEGRAM_TOKEN = 'your-telegram-token-here'
+TELEGRAM_TOKEN = '5853801750:AAEM4BETpexvRPOX4XRYoG3NT97kkltKeTo'
 
 # Configuration de l'API SMS
 SMS_API_KEY = 'your-sms-api-key-here'
